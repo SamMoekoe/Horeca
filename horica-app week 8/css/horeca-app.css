@@ -1,0 +1,17 @@
+body {
+	background-color: rgb(20, 17, 17);
+}
+
+div {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	max-width: 400px;
+	min-height: 650px;
+	background-color: rgb(184, 201, 207);
+}
+
+p {
+	padding-top: 10px;
+	margin-left: 10px;;
+}
